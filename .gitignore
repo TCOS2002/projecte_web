@@ -5,10 +5,12 @@
 # aquesta carpeta no es puja al GIT
 /secrets/*
 
-/js/libs/jquery.js
+# No volem que es pugi els continguts de libs pero si els arxius de la carpeta js
+/js/libs/*
 !/js/*
 
-/css/libs/w3.css
+# No volem que es pugi els continguts de libs pero si els arxius de la carpeta css
+/css/libs/*
 !/css/*
 
 

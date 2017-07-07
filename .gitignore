@@ -7,14 +7,13 @@
 
 # No volem que es pugi els continguts de libs pero si els arxius de la carpeta js
 /js/libs/*
-!/js
 !/js/*
+!/js
 
 # No volem que es pugi els continguts de libs pero si els arxius de la carpeta css
 /css/libs/*
-!/css
 !/css/*
-
+!/css
 
 
 

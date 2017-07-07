@@ -4,10 +4,12 @@
 
 # aquesta carpeta no es puja al GIT
 /secrets/*
-!/js/*
-!/css/*
+
 /js/libs/jquery.js
+!/js/*
+
 /css/libs/w3.css
+!/css/*
 
 
 
